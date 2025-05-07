@@ -1,14 +1,11 @@
-import ganadi03 from '../public/ganadi03.png';
-
 export default function MainImage() {
-    return (
-      <div className="image">
-        <img
-          src="/ganadi03.png"
-          alt="꾸벅 이미지"
-          width="300"
-        />
-      </div>
-    );
-  }
-  
+  return (
+    <div className="image">
+      <img
+        src="/ganadi03.png"
+        alt="꾸벅 이미지"
+        width="300"
+      />
+    </div>
+  );
+}
