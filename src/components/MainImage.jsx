@@ -1,3 +1,5 @@
+import ganadi03 from '../public/ganadi03.png';
+
 export default function MainImage() {
     return (
       <div className="image">
